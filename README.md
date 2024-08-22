@@ -15,10 +15,8 @@ g++ snake.cpp -lncurses -o snake
 ./snake
 ```
 
-### Screenshots
-![](https://github.com/user-attachments/assets/a0cffb8c-7f2f-422f-bb4b-dceadacd8ee7)
-
-<br>
+### Game Preview
+![](images/cli.jpg)
 
 ## GUI
 
@@ -59,11 +57,12 @@ g++ snake_game.cpp -o snake-game -lsfml-graphics -lsfml-window -lsfml-system
 * The game ends when the snake collides with a wall or itself.
 * A "Game Over!" message is displayed along with an option to restart the game.
  
-### Screenshots
+### Game Preview
+
 **Starting the game:**
  
-![](https://camo.githubusercontent.com/83ab7c16039bf841f02f96822bfc40cf9e3b242e1426a8048f23b4f7304d2b7c/68747470733a2f2f692e696d6775722e636f6d2f5956764932416f2e706e67)
+![](images/gui-gamestart.png)
  
 **Game Over:**
  
-![](https://camo.githubusercontent.com/c42ffdea7ced1c783f440ed17edadc466b5f976987c47bb34e089661a20e1892/68747470733a2f2f692e696d6775722e636f6d2f61756e577479342e706e67)
+![](images/gui-gameover.png)
