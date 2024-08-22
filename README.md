@@ -2,14 +2,6 @@
 
 Simple terminal Snake game in C++ using ncurses library. Mostly to learn/practice C++, and learn to use ncurses.
 
-## Clone 
-```bash
-git clone https://github.com/hctilg/snake-game
-cd snake-game
-```
-
-<br>
-
 ## CLI 
 
 ### Build Instructions
